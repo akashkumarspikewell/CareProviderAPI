@@ -1,0 +1,6 @@
+@CareProviderAPI_HostAddress = http://localhost:5064
+
+GET {{CareProviderAPI_HostAddress}}/api/v1/providers
+Accept: application/json
+
+###
